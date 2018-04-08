@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint">Amount to be converted</string>
+    <string name="rad_usd_to_gbp">Convert US Dollars to UK Pounds</string>
+    <string name="rad_gbp_to_usd">Convert UK Pounds to US Dollars</string>
+    <string name="btn_convert">Convert Currency</string>
+</resources>
